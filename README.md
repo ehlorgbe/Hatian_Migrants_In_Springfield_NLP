@@ -1,5 +1,3 @@
-# Hatian_Migrants_In_Springfield_NLP
-
 # Sentiment Analysis of Haitian Immigrants Coverage in Springfield, OH  
 #### A Comprehensive NLP Study by Elliot Hlorgbe  
 
@@ -70,7 +68,7 @@ In 2024, Springfield, Ohio, became a flashpoint in U.S. immigration debates afte
   - Top Terms: *Trump (21x), crash (7x), pets (6x)*.  
   - Implied Narrative: "National politics inflame local tensions."  
 
-![WordCloud Comparison](images/wordcloud_comparison.png)  
+![WordCloud Comparison](images/wordcloud.png)  
 *(Right: "Crisis" dominates | Left: "Jobs" emphasized | Center: Mix of "Trump" and local issues)*  
 
 ---
